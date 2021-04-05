@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5d4a107-de8c-46bc-be9e-5b42a8d94232" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pSAFPuCxS4yPVMI0QPsxN9NawK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.dk203_190030509">
+    <configuration name="dk203_190030509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearnGradle1.app.dk203_190030509" />
+      <module name="LearnGradle1.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LearnGradle1.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perulanganFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearnGradle1.app.perulanganFor" />
+      <module name="LearnGradle1.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LearnGradle1.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.dk203_190030509" />
+        <item itemvalue="Application.perulanganFor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5d4a107-de8c-46bc-be9e-5b42a8d94232" name="Default Changelist" comment="" />
+      <created>1615166013181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615166013181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1397" height="280" key="GridCell.Tab.0.bottom" timestamp="1617585302815">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1617585302815" />
+    <state width="1397" height="280" key="GridCell.Tab.0.center" timestamp="1617585302815">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1617585302815" />
+    <state width="1397" height="280" key="GridCell.Tab.0.left" timestamp="1617585302815">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1617585302815" />
+    <state width="1397" height="280" key="GridCell.Tab.0.right" timestamp="1617585302815">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1617585302815" />
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1617581637104">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1617581637104" />
+  </component>
+</project>
